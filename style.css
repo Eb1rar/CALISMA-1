@@ -1,0 +1,15 @@
+.title {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.title2 {
+  color: blueviolet;
+  font-family: "Roboto Condensed", sans-serif;
+}
+li {
+  background-color: lightgreen;
+  border: 1px solid black;
+  border-radius: 15px;
+  margin: 15px;
+  padding-left: 7px;
+  width: 300px;
+}
